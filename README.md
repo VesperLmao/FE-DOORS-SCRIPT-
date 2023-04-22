@@ -1,4 +1,3 @@
-doors script run the build script and it should work
+test script use if you want to
 
-DISCLAIMER! 
-I AM NOT INVOVLED WITH ANY ACTION USED WITH THIS SCRIPT! USE THIS SCRIPT AT YOUR OWN COST!
+TEST
